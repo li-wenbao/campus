@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "tabs": "/pages/order/components/tabs",
+    "tabs-list": "/pages/order/components/tabsList"
+  }
+}

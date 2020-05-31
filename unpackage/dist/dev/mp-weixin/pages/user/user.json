@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "user-profile": "/pages/user/components/userProfile"
+  }
+}

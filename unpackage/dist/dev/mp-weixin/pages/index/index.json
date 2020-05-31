@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "search": "/pages/index/components/search",
+    "griad-list": "/pages/index/components/griadList",
+    "banners": "/pages/index/components/banners",
+    "preference": "/pages/index/components/preference",
+    "special": "/pages/index/components/special",
+    "title": "/pages/index/components/title",
+    "delicacy": "/pages/index/components/delicacy",
+    "mlist": "/pages/index/components/mlist"
+  }
+}

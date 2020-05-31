@@ -1,0 +1,27 @@
+
+.cu-load::before {
+	font-family: "cuIcon";
+	display: inline-block;
+	margin-right: 6rpx;
+	font-size: 36rpx;
+}
+.cu-load.loading::after {
+	content: "加载中...";
+	font-size: 32rpx;
+}
+.cu-load.erro::before {
+	font-size: 36rpx;
+	content: "\e658";
+}
+.cu-load.over::after {
+	content: "定位失败，点击重试";
+	font-size: 32rpx;
+}
+
+/* 重写轮播图样式 */
+.swiper {
+	height: 200rpx;
+	width: 690rpx;
+	margin: 0rpx auto;
+}
+
